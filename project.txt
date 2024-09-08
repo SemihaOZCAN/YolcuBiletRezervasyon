@@ -1,0 +1,13 @@
+YOLCU BİLET REZERVASYON
+**********************************
+ Yolcu Bilet Rezervasyon Sistemi olarak, modern bir otobüs bileti rezervasyonu yapmayı amaçlayan şık ve kullanıcı dostu bir uygulamadır.
+ C# ve SQL altyapısıyla geliştirilen sistemde, yolcu ve kaptan bilgileri kolayca yönetilebilir, sefer oluşturulup düzenlenebilir.
+ Kullanıcılar, bilet alırken koltuk seçimi yapabilir ve seçilen koltuklar anında kırmızı renkle vurgulanarak görsel olarak da desteklenir. 
+ Sistem, yolcu bilgilerinin güvenli bir şekilde saklanmasını sağlar ve tüm rezervasyon işlemleri veritabanına kaydedilir, böylece sorunsuz ve güvenilir bir biletleme deneyimi sunar.
+
+
+
+
+
+
+
